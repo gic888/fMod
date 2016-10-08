@@ -1,4 +1,4 @@
-name := "blank"
+name := "fMod"
 
 version := "0.1"
 
