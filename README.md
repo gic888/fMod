@@ -1,4 +1,4 @@
 Principal component separation
 ==============================
 
-Initial commit. Blank template.
+Just starting project. Reader for test data added.
